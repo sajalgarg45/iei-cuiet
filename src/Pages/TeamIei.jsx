@@ -20,7 +20,7 @@ function TeamIei() {
       <section className="flex flex-col justify-center items-center py-10">
         <TeamName name="Faculty"/>
         <div className='mt-20 flex gap-10 justify-center items-center sm:flex-row w-full flex-col'>
-          <img src='https://i.ibb.co/j9tbWTBg/Dr-Gagan-Singla.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
+          <img src='https://i.ibb.co/j9tbWTBg/Dr-Gagan-Singla.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%] h-[80%] object-cover'/>
           <div className='w-full min-h-[40vh] text-white flex flex-col justify-evenly items-center sm:items-start gap-6'>
             <h1 className='text-[30px] font-poppins font-medium'>Dr. Gagan Singla</h1>
             <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Faculty Coordinator, Society IE(I) CSE Student Chapter</h1>
@@ -36,7 +36,7 @@ function TeamIei() {
           </div>
         </div>
         <div className='mt-20 flex gap-10 justify-center items-center sm:flex-row w-full flex-col'>
-          <img src='https://i.ibb.co/XfmFqtdg/Dr-Priyanka-Gupta.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
+          <img src='https://i.ibb.co/XfmFqtdg/Dr-Priyanka-Gupta.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%] h-[80%] object-cover'/>
           <div className='w-full min-h-[40vh] text-white flex flex-col justify-evenly items-center sm:items-start gap-6'>
             <h1 className='text-[30px] font-poppins font-medium'>Dr. Priyanka</h1>
             <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Faculty Coordinator, Society IE(I) CSE Student Chapter</h1>

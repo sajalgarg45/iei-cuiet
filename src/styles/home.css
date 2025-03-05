@@ -1,0 +1,31 @@
+.trial-border{
+    @apply border-2 border-red-500 border-solid;
+}
+.green-pink-gradient {
+    background: "#00cea8";
+    background: linear-gradient(90.13deg, #ffe14b 1.9%, #ffffff 97.5%);
+    background: -webkit-linear-gradient(-90.13deg, #ffe14b 1.9%, #ffffff 97.5%);
+  }
+
+.second-section{
+    /* background-image: radial-gradient(ellipse,#1d1a1a5a, #1d1a1a), url('../assets/bg/sectionBg1.png'); */
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gradiant{
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+
+.gradiant:hover{
+    background: transparent;
+}
+
+.btn{
+    background-color: transparent;
+}
+
+.btn:hover{
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}

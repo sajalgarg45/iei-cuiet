@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Mansalva&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Hi+Melody&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Pixelify+Sans&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #121212 ;
+}

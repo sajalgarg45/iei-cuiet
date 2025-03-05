@@ -22,7 +22,7 @@ export default function MemberCard({ name, imgUrl, position, socialLinks, index 
           className='bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'
         >
           <motion.div className='p-1 green-pink-gradient rounded-full'>
-            <img src={imgUrl} alt="image" className='rounded-full h-[90px] w-[90px]' />
+            <img src={imgUrl} alt="image" className='rounded-full h-[90px] w-[90px] object-cover' />
           </motion.div>
           <div>
             <div className='text-center text-white font-bold text-[20px]'>{name}</div>

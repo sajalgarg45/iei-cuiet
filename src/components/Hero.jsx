@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/background-animation.css';
 import '../styles/home.css'
-import ieiLogo from '../assets/icons/icons-512.png'
+import ieiLogo from '../assets/icons/iei-logo.png'
 
 const Hero = () => {
   return (

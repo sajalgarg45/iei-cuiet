@@ -20,32 +20,32 @@ function TeamIei() {
       <section className="flex flex-col justify-center items-center py-10">
         <TeamName name="Faculty"/>
         <div className='mt-20 flex gap-10 justify-center items-center sm:flex-row w-full flex-col'>
-          <img src='https://res.cloudinary.com/dnxud81bz/image/upload/v1698694379/WhatsApp_Image_2023-10-31_at_1.01.20_AM_oxda3v.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
+          <img src='https://i.ibb.co/j9tbWTBg/Dr-Gagan-Singla.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
           <div className='w-full min-h-[40vh] text-white flex flex-col justify-evenly items-center sm:items-start gap-6'>
-            <h1 className='text-[30px] font-poppins font-medium'>Dr. Yogesh</h1>
-            <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Lead, Society IE(I) CSE Student Chapter</h1>
-            <p className='text-[16px] text-center sm:text-left'>Dr. Yogesh is an Assistant Professor-III in the Department of CSE at Chitkara University, Punjab, India, with over 10 years of teaching experience. He has an impressive track record, having filed 27 patents and published 56 research papers in renowned international conferences and journals indexed in SCI/Scopus. In 2021, he was honored with the "Best Researcher Award" at the International Scientist Awards on Engineering, Science, and Medicine. In 2017, he won the Best Paper Award at the IEEE conference ICRITO. Dr. Yogesh has also earned a Digital Badge from IBM.</p>
+            <h1 className='text-[30px] font-poppins font-medium'>Dr. Gagan Singla</h1>
+            <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Faculty Coordinator, Society IE(I) CSE Student Chapter</h1>
+            <p className='text-[16px] text-center sm:text-left'>Dr. Gagan is an Assistant Professor in the Department of CSE at Chitkara University, Punjab, India. He is known for his innovative approach to education and his ability to foster a culture of excellence. His guidance promises to be instrumental in shaping our chapter’s vision for the future, bringing fresh perspectives and driving meaningful progress.</p>
             <div className='flex flex-row justify-center items-center xs:gap-4 gap-10 mt-3'>
-            <a href="https://www.linkedin.com/in/dr--yogesh/" target='_blank' className='cursor-pointer'>
+            <a href="https://www.linkedin.com/in/dr-gagan-singla-aa96931b2/" target='_blank' className='cursor-pointer'>
               <FaLinkedin className='text-blue-600 text-[26px]'/>
             </a>
-            <a href="mailto:yogesh.1135@chitkara.edu.in" target='_blank' className='cursor-pointer'>
+            <a href="mailto:mailto:singla.gagan@chitkara.edu.in" target='_blank' className='cursor-pointer'>
               <HiOutlineMail className='text-green-300 text-[26px]'/>
             </a>
           </div>
           </div>
         </div>
         <div className='mt-20 flex gap-10 justify-center items-center sm:flex-row w-full flex-col'>
-          <img src='https://res.cloudinary.com/dnxud81bz/image/upload/v1698694379/WhatsApp_Image_2023-10-31_at_1.01.20_AM_oxda3v.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
+          <img src='https://i.ibb.co/XfmFqtdg/Dr-Priyanka-Gupta.jpg' className='sm:w-[40%] bg-black lg:min-h-[50vh] rounded-2xl w-[80%]'/>
           <div className='w-full min-h-[40vh] text-white flex flex-col justify-evenly items-center sm:items-start gap-6'>
-            <h1 className='text-[30px] font-poppins font-medium'>Dr. Yogesh</h1>
-            <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Lead, Society IE(I) CSE Student Chapter</h1>
-            <p className='text-[16px] text-center sm:text-left'>Dr. Yogesh is an Assistant Professor-III in the Department of CSE at Chitkara University, Punjab, India, with over 10 years of teaching experience. He has an impressive track record, having filed 27 patents and published 56 research papers in renowned international conferences and journals indexed in SCI/Scopus. In 2021, he was honored with the "Best Researcher Award" at the International Scientist Awards on Engineering, Science, and Medicine. In 2017, he won the Best Paper Award at the IEEE conference ICRITO. Dr. Yogesh has also earned a Digital Badge from IBM.</p>
+            <h1 className='text-[30px] font-poppins font-medium'>Dr. Priyanka</h1>
+            <h1 className='text-[18px] font-poppins font-normal text-gray-400 text-center sm:text-left'>Faculty Coordinator, Society IE(I) CSE Student Chapter</h1>
+            <p className='text-[16px] text-center sm:text-left'>Dr. Priyanka is an Assistant Professor in the Department of CSE at Chitkara University, Punjab, India. Her ability to connect with students and colleagues alike, combined with her visionary approach to learning, makes her a true asset to our team. Dr. Priyanka's presence will undoubtedly bring fresh ideas, inspire meaningful collaborations, and foster an environment of growth and innovation.</p>
             <div className='flex flex-row justify-center items-center xs:gap-4 gap-10 mt-3'>
-            <a href="https://www.linkedin.com/in/dr--yogesh/" target='_blank' className='cursor-pointer'>
+            <a href="https://www.linkedin.com/in/dr-priyanka-gupta-750062234/" target='_blank' className='cursor-pointer'>
               <FaLinkedin className='text-blue-600 text-[26px]'/>
             </a>
-            <a href="mailto:yogesh.1135@chitkara.edu.in" target='_blank' className='cursor-pointer'>
+            <a href="mailto:" target='_blank' className='cursor-pointer'>
               <HiOutlineMail className='text-green-300 text-[26px]'/>
             </a>
           </div>
